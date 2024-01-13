@@ -50,3 +50,6 @@ This helped maintain user interest and encouraged them to complete the quiz.
 
 This app was built as a assignment by Navin Anand
 
+## Video 
+https://github.com/Navin925/quiz_1/assets/99162942/fad28e1e-c045-4b96-a871-b2d86c27fa0e
+
